@@ -1,10 +1,8 @@
-# Sample Hardhat Project
+# Blockchain Voting App
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Do uruchomienia projektu należy zainstalować hardhat
 
-Try running some of the following tasks:
-
-```shell
+```cmd
 npx hardhat help
 npx hardhat test
 GAS_REPORT=true npx hardhat test
